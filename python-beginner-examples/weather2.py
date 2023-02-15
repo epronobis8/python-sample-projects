@@ -1,6 +1,6 @@
 import requests
 
-api_key = "13b6b0266bedf867e02e8c065dcc1c9d"
+api_key = ""
 city = "Baltimore"
 url = "http://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+api_key+"&units=imperial"
 
